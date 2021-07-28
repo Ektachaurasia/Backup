@@ -1,0 +1,7 @@
+[01m[K/home/pi/catkin_ws/src/ros-i2cpwmboard/src/i2cpwm_controller.cpp:190:10:[m[K [01;31m[Kfatal error: [m[Kgeometry_msgs/Twist.h: No such file or directory
+ #include [01;31m[K<geometry_msgs/Twist.h>[m[K
+          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/i2cpwm_board.dir/build.make:63: CMakeFiles/i2cpwm_board.dir/src/i2cpwm_controller.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:177: CMakeFiles/i2cpwm_board.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

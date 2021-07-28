@@ -1,0 +1,9 @@
+<launch>
+
+<include file="$(find i2cpwm_board)/launch/i2cpwm_node.launch"/>
+
+<node pkg="llc" name="llc" type="llc.py" output="screen" >
+</node>
+
+
+</launch>

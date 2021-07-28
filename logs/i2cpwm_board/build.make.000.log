@@ -1,0 +1,102 @@
+[35m[1mScanning dependencies of target _i2cpwm_board_generate_messages_check_deps_PositionArray[0m
+[  0%] Built target _i2cpwm_board_generate_messages_check_deps_PositionArray
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _i2cpwm_board_generate_messages_check_deps_Servo[0m
+[  0%] Built target _i2cpwm_board_generate_messages_check_deps_Servo
+[35m[1mScanning dependencies of target _i2cpwm_board_generate_messages_check_deps_StopServos[0m
+[  0%] Built target _i2cpwm_board_generate_messages_check_deps_StopServos
+[35m[1mScanning dependencies of target _i2cpwm_board_generate_messages_check_deps_ServoArray[0m
+[  0%] Built target _i2cpwm_board_generate_messages_check_deps_ServoArray
+[35m[1mScanning dependencies of target _i2cpwm_board_generate_messages_check_deps_ServoConfig[0m
+[  0%] Built target _i2cpwm_board_generate_messages_check_deps_ServoConfig
+[35m[1mScanning dependencies of target _i2cpwm_board_generate_messages_check_deps_Position[0m
+[  0%] Built target _i2cpwm_board_generate_messages_check_deps_Position
+[35m[1mScanning dependencies of target _i2cpwm_board_generate_messages_check_deps_IntValue[0m
+[  0%] Built target _i2cpwm_board_generate_messages_check_deps_IntValue
+[35m[1mScanning dependencies of target _i2cpwm_board_generate_messages_check_deps_ServosConfig[0m
+[  0%] Built target _i2cpwm_board_generate_messages_check_deps_ServosConfig
+[35m[1mScanning dependencies of target _i2cpwm_board_generate_messages_check_deps_DriveMode[0m
+[  0%] Built target _i2cpwm_board_generate_messages_check_deps_DriveMode
+[35m[1mScanning dependencies of target _i2cpwm_board_generate_messages_check_deps_ServoConfigArray[0m
+[  0%] Built target _i2cpwm_board_generate_messages_check_deps_ServoConfigArray
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target i2cpwm_board_generate_messages_cpp[0m
+[  1%] [34m[1mGenerating C++ code from i2cpwm_board/Servo.msg[0m
+[  3%] [34m[1mGenerating C++ code from i2cpwm_board/ServoArray.msg[0m
+[  5%] [34m[1mGenerating C++ code from i2cpwm_board/ServoConfig.msg[0m
+[  7%] [34m[1mGenerating C++ code from i2cpwm_board/ServoConfigArray.msg[0m
+[  9%] [34m[1mGenerating C++ code from i2cpwm_board/Position.msg[0m
+[ 10%] [34m[1mGenerating C++ code from i2cpwm_board/PositionArray.msg[0m
+[ 12%] [34m[1mGenerating C++ code from i2cpwm_board/IntValue.srv[0m
+[ 14%] [34m[1mGenerating C++ code from i2cpwm_board/ServosConfig.srv[0m
+[ 16%] [34m[1mGenerating C++ code from i2cpwm_board/DriveMode.srv[0m
+[35m[1mScanning dependencies of target i2cpwm_board_generate_messages_lisp[0m
+[ 18%] [34m[1mGenerating Lisp code from i2cpwm_board/Servo.msg[0m
+[ 20%] [34m[1mGenerating Lisp code from i2cpwm_board/ServoArray.msg[0m
+[ 21%] [34m[1mGenerating C++ code from i2cpwm_board/StopServos.srv[0m
+[ 21%] Built target i2cpwm_board_generate_messages_cpp
+[ 23%] [34m[1mGenerating Lisp code from i2cpwm_board/ServoConfig.msg[0m
+[35m[1mScanning dependencies of target i2cpwm_board_generate_messages_py[0m
+[ 25%] [34m[1mGenerating Python from MSG i2cpwm_board/Servo[0m
+[ 27%] [34m[1mGenerating Lisp code from i2cpwm_board/ServoConfigArray.msg[0m
+[ 29%] [34m[1mGenerating Lisp code from i2cpwm_board/Position.msg[0m
+[ 30%] [34m[1mGenerating Python from MSG i2cpwm_board/ServoArray[0m
+[ 32%] [34m[1mGenerating Lisp code from i2cpwm_board/PositionArray.msg[0m
+[ 34%] [34m[1mGenerating Lisp code from i2cpwm_board/IntValue.srv[0m
+[ 36%] [34m[1mGenerating Python from MSG i2cpwm_board/ServoConfig[0m
+[ 38%] [34m[1mGenerating Lisp code from i2cpwm_board/ServosConfig.srv[0m
+[ 40%] [34m[1mGenerating Lisp code from i2cpwm_board/DriveMode.srv[0m
+[ 41%] [34m[1mGenerating Lisp code from i2cpwm_board/StopServos.srv[0m
+[ 43%] [34m[1mGenerating Python from MSG i2cpwm_board/ServoConfigArray[0m
+[ 43%] Built target i2cpwm_board_generate_messages_lisp
+[35m[1mScanning dependencies of target i2cpwm_board_generate_messages_nodejs[0m
+[ 45%] [34m[1mGenerating Javascript code from i2cpwm_board/Servo.msg[0m
+[ 47%] [34m[1mGenerating Javascript code from i2cpwm_board/ServoArray.msg[0m
+[ 49%] [34m[1mGenerating Python from MSG i2cpwm_board/Position[0m
+[ 50%] [34m[1mGenerating Javascript code from i2cpwm_board/ServoConfig.msg[0m
+[ 52%] [34m[1mGenerating Javascript code from i2cpwm_board/ServoConfigArray.msg[0m
+[ 54%] [34m[1mGenerating Python from MSG i2cpwm_board/PositionArray[0m
+[ 56%] [34m[1mGenerating Javascript code from i2cpwm_board/Position.msg[0m
+[ 58%] [34m[1mGenerating Python code from SRV i2cpwm_board/IntValue[0m
+[ 60%] [34m[1mGenerating Javascript code from i2cpwm_board/PositionArray.msg[0m
+[ 61%] [34m[1mGenerating Javascript code from i2cpwm_board/IntValue.srv[0m
+[ 63%] [34m[1mGenerating Javascript code from i2cpwm_board/ServosConfig.srv[0m
+[ 65%] [34m[1mGenerating Python code from SRV i2cpwm_board/ServosConfig[0m
+[ 67%] [34m[1mGenerating Javascript code from i2cpwm_board/DriveMode.srv[0m
+[ 69%] [34m[1mGenerating Javascript code from i2cpwm_board/StopServos.srv[0m
+[ 70%] [34m[1mGenerating Python code from SRV i2cpwm_board/DriveMode[0m
+[ 70%] Built target i2cpwm_board_generate_messages_nodejs
+[ 72%] [34m[1mGenerating Python code from SRV i2cpwm_board/StopServos[0m
+[ 74%] [34m[1mGenerating Python msg __init__.py for i2cpwm_board[0m
+[ 76%] [34m[1mGenerating Python srv __init__.py for i2cpwm_board[0m
+[ 76%] Built target i2cpwm_board_generate_messages_py
+[35m[1mScanning dependencies of target i2cpwm_board_generate_messages_eus[0m
+[ 78%] [34m[1mGenerating EusLisp code from i2cpwm_board/Servo.msg[0m
+[ 80%] [34m[1mGenerating EusLisp code from i2cpwm_board/ServoArray.msg[0m
+[ 81%] [34m[1mGenerating EusLisp code from i2cpwm_board/ServoConfig.msg[0m
+[ 83%] [34m[1mGenerating EusLisp code from i2cpwm_board/ServoConfigArray.msg[0m
+[ 85%] [34m[1mGenerating EusLisp code from i2cpwm_board/Position.msg[0m
+[ 87%] [34m[1mGenerating EusLisp code from i2cpwm_board/PositionArray.msg[0m
+[ 89%] [34m[1mGenerating EusLisp code from i2cpwm_board/IntValue.srv[0m
+[ 90%] [34m[1mGenerating EusLisp code from i2cpwm_board/ServosConfig.srv[0m
+[ 92%] [34m[1mGenerating EusLisp code from i2cpwm_board/DriveMode.srv[0m
+[ 94%] [34m[1mGenerating EusLisp code from i2cpwm_board/StopServos.srv[0m
+[ 96%] [34m[1mGenerating EusLisp manifest code for i2cpwm_board[0m
+[ 96%] Built target i2cpwm_board_generate_messages_eus
+[35m[1mScanning dependencies of target i2cpwm_board[0m
+[ 98%] [32mBuilding CXX object CMakeFiles/i2cpwm_board.dir/src/i2cpwm_controller.cpp.o[0m
+[01m[K/home/pi/catkin_ws/src/ros-i2cpwmboard/src/i2cpwm_controller.cpp:190:10:[m[K [01;31m[Kfatal error: [m[Kgeometry_msgs/Twist.h: No such file or directory
+ #include [01;31m[K<geometry_msgs/Twist.h>[m[K
+          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/i2cpwm_board.dir/build.make:63: CMakeFiles/i2cpwm_board.dir/src/i2cpwm_controller.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:177: CMakeFiles/i2cpwm_board.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2
